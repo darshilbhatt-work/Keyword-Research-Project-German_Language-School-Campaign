@@ -30,7 +30,7 @@ A **mock keyword research project** to demonstrate my ability to analyze, segmen
 ---
 
 ## 📑 Full Report  
-[👉 Download the full project report (PDF)](Project%201.pdf)  
+[👉 Download the full project report (PDF)](German_Language_School_Project.pdf) 
 
 ---
 
